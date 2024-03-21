@@ -1,0 +1,83 @@
+Prompt 1
+Bir ön web geliştiricisi olarak hareket etmeni istiyorum. 
+Proje için HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript araçlarını kullanarak yeni bir web sitesi kodlayacaksınız.
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisin. 
+Yazdığın kodların hiçbirine açıklama yapma. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsan lütfen evet veya hayır şeklinde yanıt verir misin ?
+
+Prompt 2
+Web sitesi bir porfolio galeri web sitesi ve burada kitap önerileri paylaşmak istiyorum.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+Sayfamın header bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette footer bölümünde olmasini istiyorum.
+Sayfanın içeriğinin galeri görünümünde, her bir ızgarada 2 adet olmak üzere 200x300 boyutlarında resimler ve resimlerin yanında 
+ilgili kitapla ilgili kısa bir kitap özetinin yer alacağı bir alan yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+Prompt 3
+Bu kodlarda sayfanın header bölümüne logo resmi eklemem için bir alan ayarlayabilir misin, 
+ayrıca gezinme menüsünü sola yaslı şekilde düzenler misin? Html ve  Css dosyaları ayrı olsun lütfen
+
+Prompt 4
+index.html sayfasında bulunan gezinme çubuğundaki hakkımda linkine tıklandığında 
+özgeçmiş formatında eğitim, beceri, deneyim ve benzeri bilgilerin olduğu bir sayfaya yönlendirilmesini istiyorum. Benim için bunu ayarlayabilir misin? 
+
+Prompt 5
+index.html sayfasında bulunan gezinme çubuğundaki iletişim linkine tıklandığında 
+linkedin, github, email ikonlarının bulunduğu ve ikonların yanında ilgili basılınca ilgili sayfaya yönlendiren linkleri ekleyebileceğim 
+alanların  olduğu bir sayfaya yönlendirilmesini istiyorum. Benim için bunu ayarlayabilir misin? 
+
+Prompt 6
+hakkimda.html sayfasında özgeçmiş bilgileri girilecek olan alanda kendi hakkımda yazabileceğim 1 paragraflık alan, 
+eğitim, deneyim, yetenekler, gönüllülük projeleri , katılım belgeleri konuları için doldurabileceğim alanlar oluşturabilir misin ?
+
+Prompt 7
+footer kısmının sadece iletisim.html sayfasında sayfanın en aşağısında kalmasını sağlamak istiyorum 
+bunun için ilgili kodu html ve js kodlarını ayrı sayfalarda olacak şekilde yazar mısın ?
+
+
+
+Logo Prompt
+Can you draw me an open book that magical things get out inside the book ?
+
+Hayvan Çiftliği Prompt
+-Can you draw me a picture of a book cover for George Orwell's Animal Farm?
+-Bana George Orwell'ın Hayvan Çiftliği kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Suç ve Ceza Prompt
+-Can you draw me a picture of a book cover suitable for Dostoevsky's Crime and Punishment? 
+-Bana Dostoyevski'nin Suç ve Ceza kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Savaş ve Barış Prompt
+-Can you draw me a picture of a book cover suitable for Tolstoy's War and Peace? 
+-Bana Tolstoy'un Savaş ve Barış kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Jane Eyre Prompt
+-Can you draw me a picture of a book cover for Charlotte Bronte's Jane Eyre?
+-Bana Charlotte Bronte'nin Jane Eyre kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Körlük Prompt
+-Can you draw me a picture of a book cover for Blindness by Jose Saramago? 
+-Bana Jose Saramago'nun Körlük kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Yaşamak Prompt
+-Can you draw me a book cover for Yu Hua's Living?
+-Bana Yu Hua'nın Yaşamak kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Simyacı Prompt
+-Can you draw me a book cover picture for Paulo Coelho's The Alchemist?
+-Bana Paulo Coelho'nun Simyacı kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Beyaz Gemi Prompt
+-Can you draw me a book cover picture suitable for the book The White Ship by Genghis Aitmatov? 
+-Bana Cengiz Aytmatov'un Beyaz Gemi kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Uğultulu Tepeler Prompt
+-Can you draw me a picture of a book cover for Emily Bronte's Wuthering Heights?
+-Bana Emily Bronte'nin Uğultulu Tepeler kitabının 1 paragraflık bir özetini yazabilir misin ?
+
+Drina Köprüsü Prompt
+-Can you draw me a picture of a book cover suitable for Ivo Andric's Drina Bridge?
+-Bana Ivo Andric'in Drina Köprüsü kitabının 1 paragraflık bir özetini yazabilir misin ?

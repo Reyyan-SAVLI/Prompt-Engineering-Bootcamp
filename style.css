@@ -1,0 +1,91 @@
+/* styles.css */
+.body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #343a40; /* Navbar arkaplan rengi */
+    padding: 15px 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.contact-grid {
+    display: flex;
+    justify-content: center; /* İletişim içeriğini ortalamak için */
+}
+
+.contact-item {
+    text-align: center; /* İletişim içeriğini ortalamak için */
+    margin: 20px; /* İletişim içeriği arasındaki boşluk */
+}
+
+.contact-item img {
+    max-width: 100px; /* İletişim ikonlarının maksimum genişliği */
+    height: auto;
+}
+
+.contact-item p {
+    margin-top: 10px; /* İletişim içeriği ile ikon arasındaki boşluk */
+}
+
+.navbar-header {
+    float: left;
+}
+
+.navbar-menu {
+    float: right;
+}
+
+.navbar-brand img {
+    max-height: 50px; /* Logo boyutu */
+}
+
+.brand-title {
+    font-size: 20px;
+    color: #ffffff; /* Başlık rengi */
+    margin-left: 10px; /* Başlık ile logo arasındaki boşluk */
+}
+
+.navbar-nav {
+    list-style: none;
+    padding: 0;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-left: 20px; /* Menü öğeleri arasındaki boşluk */
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.gallery-item {
+    width: calc(50% - 20px); /* İki sütunlu görünüm */
+    margin: 10px;
+    float: left;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* Resim kırpma */
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Footer arkaplan rengi */
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
